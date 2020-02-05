@@ -5,8 +5,8 @@
   gather_facts: False
   become: true
   vars:
-    hostname: taranto-cateyes
-    tz: Antarctica/McMurdo
+    hostname: thisismynewhostname.jp
+    tz: Japan/Sapporo
     token: T04NJ722U/BQB4MBBHV/RZPNWsz38MD1WtuVcena5reb
     
   tasks:
